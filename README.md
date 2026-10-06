@@ -1,4 +1,4 @@
-\# Task Manager
+# Task Manager
 
 
 
@@ -6,9 +6,13 @@ A simple task management application.
 
 
 
-\## Project Status
+## Project Status
+
+The Task Manager project is actively developed for report feature.(?) chejoori bayad joftesh bashe :/ 
 
 
+## Project Status 
 
-The project is currently under active development.
+The Task Manager project is actively developed by the engineering team.
+
 
